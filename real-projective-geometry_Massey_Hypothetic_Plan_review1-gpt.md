@@ -19,7 +19,7 @@ Overall: **conceptually excellent, practically a 10–20 year formalization prog
 
 The proposal correctly identifies the logical chain connecting the two essays:
 
-[
+$$
 \mathbb{RP}^n
 \rightarrow
 \gamma^1
@@ -33,7 +33,7 @@ w(\mathbb{RP}^n)
 \text{Massey}
 \rightarrow
 \text{Cohen}.
-]
+$$
 
 That is exactly the mathematical route by which projective geometry enters immersion theory.
 
@@ -190,12 +190,9 @@ This is probably the best intermediate target in the entire proposal.
 
 Once SW classes exist, proving
 
-[
-w(\mathbb{RP}^{2^k})
-====================
-
-(1+a)^{2^k+1}
-]
+$$
+w(\mathbb{RP}^{2^k})=(1+a)^{2^k+1}
+$$
 
 and extracting nonvanishing classes is a very natural formalization milestone.
 
@@ -215,9 +212,9 @@ Not currently available.
 
 One essentially needs:
 
-[
+$$
 MO
-]
+$$
 
 and Thom spectra.
 
@@ -262,9 +259,9 @@ I would split the project into three separate goals.
 
 Formalize
 
-[
+$$
 \mathbb{RP}^n
-]
+$$
 
 and its topology.
 
@@ -275,12 +272,9 @@ Deliverables:
 * SW classes,
 * proof
 
-[
-w(\mathbb{RP}^n)
-================
-
-(1+a)^{n+1}.
-]
+$$
+w(\mathbb{RP}^n)=(1+a)^{n+1}.
+$$
 
 This alone would already be a notable contribution.
 
@@ -308,19 +302,16 @@ This should be viewed as a separate long-term project.
 
 The jump from
 
-[
-w(\mathbb{RP}^n)
-================
-
-(1+a)^{n+1}
-]
+$$
+w(\mathbb{RP}^n)=(1+a)^{n+1}
+$$
 
 to
 
-[
+$$
 \text{every manifold immerses in }
 \mathbb R^{2n-\alpha(n)}
-]
+$$
 
 is vastly larger than the roadmap suggests.
 
